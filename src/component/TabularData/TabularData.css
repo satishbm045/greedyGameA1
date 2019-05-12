@@ -1,0 +1,16 @@
+.tableData{
+	margin: 0 auto;
+	padding: 20px;
+	box-sizing: border-box;
+	text-align: center;
+}
+.tableData table tr th, .tableData table tr td{
+	padding: 5px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.tableData table{
+	margin: 0 auto;
+}

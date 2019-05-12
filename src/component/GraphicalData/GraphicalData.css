@@ -1,0 +1,16 @@
+.GraphData{
+	margin: 50px auto;
+	border: 1px solid #000;
+}
+#dataShow{
+	padding: 40px 0px;
+	box-sizing: border-box;
+}
+.dateRange{
+	border: 1px solid #000;
+	box-sizing: border-box;
+	padding: 10px 5px;
+}
+.field{
+	margin-right: 25px; 
+}
