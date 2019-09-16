@@ -132,6 +132,7 @@ class GraphicalData extends React.Component{
 			useDate: 1
 		})
 		this.highChartsRender();
+		this.props.dateSelect(this.state.fromDateValue,this.state.toDateValue);
 	}
 	render(){
 		return(
