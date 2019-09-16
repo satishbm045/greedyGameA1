@@ -45,7 +45,6 @@ class App extends React.Component {
 }
 
 const mapStoreToProps = (store) => {
-  console.log(store);
     return {
       apiData : store.dataReducer
     }
